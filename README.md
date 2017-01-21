@@ -19,3 +19,8 @@ This code works amongst others for
 Credits for this project go to [Tensorflow](https://www.tensorflow.org/versions/r0.7/tutorials/recurrent/index.html#recurrent-neural-networks) for providing a strong example, the [UCR archive](http://www.cs.ucr.edu/~eamonn/time_series_data/) for the dataset and my friend Ryan for strong feedback.
 
 As always, I am curious to any comments and questions. Reach me at romijndersrob@gmail.com
+
+# AziziShekoofeh
+
+1- You need to change the read and write path in the main program
+2- You need to find the password for the dataset to unzipped it. 
