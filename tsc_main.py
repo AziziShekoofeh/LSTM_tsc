@@ -43,8 +43,6 @@ perf_collect = np.zeros((4,int(np.floor(max_iterations /100))))
 #Instantiate a model
 model = Model(config)
 
-
-
 """Session time"""
 sess = tf.Session() #Depending on your use, do not forget to close the session
 writer = tf.summary.FileWriter("/home/rob/Dropbox/ml_projects/LSTM/log_tb", sess.graph)  #writer for Tensorboard
